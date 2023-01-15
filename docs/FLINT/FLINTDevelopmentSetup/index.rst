@@ -67,7 +67,7 @@ Contents:
 .. toctree::
   :maxdepth: 1
 
-  git_and_github_guide
-  windows_installation
-  docker_installation
-  FLINT.example_installation
+  git_and_github_guide/index
+  windows_installation/index
+  docker_installation/index
+  FLINT.example_installation/index
